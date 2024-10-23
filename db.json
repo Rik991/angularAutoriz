@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "rik@live.it",
+      "password": "$2a$10$kM1dTGH3Fy.iM6MYi8v1POJa/IXwT5Gq2zbGFYE7gypnyOjzmMmbG",
+      "name": "riccardo",
+      "id": 1
+    }
+  ]
+}
